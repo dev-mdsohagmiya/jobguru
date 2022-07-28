@@ -4,7 +4,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily:{
-        "mont":["mont-bold"],
+        "mont":["Montserrat"],
         "nunito":["Nunito"],
         "lib":["Libre Franklin"]
       }
