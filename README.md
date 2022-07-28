@@ -1,3 +1,4 @@
-<h3 >Gobguru Website Template</h3>
+<h3 >Jobguru website template </h3>
 </br>
-<a href="https://jobguru.netlify.app/">Live Url</a>
+</hr>
+<a href="https://jobguru.netlify.app/">Live url</a>
