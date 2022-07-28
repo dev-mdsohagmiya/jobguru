@@ -30,3 +30,11 @@
 }
 
 /* slider (end) */
+
+/* toggle */
+.toggle-menu {
+  display: none;
+}
+.toggleMenu {
+  display: block;
+}

@@ -23,3 +23,11 @@ function showSlides() {
 }
 
 //slider (end)
+
+//toggle (start)
+
+const toggleMenu = document.querySelector(".toggle-menu")
+const toggleBtn = document.querySelector(".toggle-btn")
+toggleBtn.addEventListener("click",()=>{
+  toggleMenu.classList.toggle("toggleMenu")
+})
