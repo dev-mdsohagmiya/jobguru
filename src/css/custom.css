@@ -33,8 +33,10 @@
 
 /* toggle */
 .toggle-menu {
-  display: none;
+  transform: translateX(-1000px);
+  transition: 0.5s;
 }
 .toggleMenu {
-  display: block;
+  transform: translateX(0);
+  transition: 0.5s;
 }
